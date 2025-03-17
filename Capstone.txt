@@ -1,0 +1,14 @@
+To predict specialization based on interests or skills
+
+y variable What is your "UG specialization Major Subject (Eg; Mathematics)"
+To understand career interests
+
+y variable "What are your interests?"
+
+Intro
+Topic
+Hypothesis, what variables are x and y, and which ones are more relevant.
+dataset
+
+
+Thank you
