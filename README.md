@@ -12,3 +12,11 @@ Technologies used: Python, scikit-learn, LightGBM, XGBoost, pandas, seaborn, mat
 Data source: Federal Housing Finance Agency (FHFA) House Price Index datasets.
 Finished 4/29/2025
 Feel free to explore, reuse, and contribute!
+
+4/12/25 Chose the deciding models for the project and run some statistics
+
+4/15/25 Did some finishing touches for the preliminary edition of the models and also did hyperameter tuning
+
+4/20/25 Continued the data analysis and continued writing and explaining the observations of what I am getting
+
+4/29/25 Added some visuals to explain the distribution of the data and 
